@@ -5,6 +5,7 @@ gem "rake", "~> 12.3.3"
 
 group :development do
   gem "rack"
+  gem "sinatra"
 end
 
 group :development, :test do
